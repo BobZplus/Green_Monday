@@ -1,2 +1,2 @@
-# Green_Monday-Ritual_Science
+# Green_Monday
 Modpack
