@@ -1,0 +1,514 @@
+<liquid:air>, Air
+<liquid:antimatter>, Antimatter
+<liquid:biodiesel>, Biodiesel
+<liquid:bioethanol>, Ethanol
+<liquid:biomass>, Biomass
+<liquid:chlorine>, Chlorine
+<liquid:creosote>, Creosote Oil
+<liquid:deuterium>, Deuterium
+<liquid:dye.chemical.dyeblack>, Chemical Black Dye
+<liquid:dye.chemical.dyeblue>, Chemical Blue Dye
+<liquid:dye.chemical.dyebrown>, Chemical Brown Dye
+<liquid:dye.chemical.dyecyan>, Chemical Cyan Dye
+<liquid:dye.chemical.dyegray>, Chemical Gray Dye
+<liquid:dye.chemical.dyegreen>, Chemical Green Dye
+<liquid:dye.chemical.dyelightblue>, Chemical Light Blue Dye
+<liquid:dye.chemical.dyelightgray>, Chemical Light Gray Dye
+<liquid:dye.chemical.dyelime>, Chemical Lime Dye
+<liquid:dye.chemical.dyemagenta>, Chemical Magenta Dye
+<liquid:dye.chemical.dyeorange>, Chemical Orange Dye
+<liquid:dye.chemical.dyepink>, Chemical Pink Dye
+<liquid:dye.chemical.dyepurple>, Chemical Purple Dye
+<liquid:dye.chemical.dyered>, Chemical Red Dye
+<liquid:dye.chemical.dyewhite>, Chemical White Dye
+<liquid:dye.chemical.dyeyellow>, Chemical Yellow Dye
+<liquid:dye.watermixed.dyeblack>, Water Mixed Black Dye
+<liquid:dye.watermixed.dyeblue>, Water Mixed Blue Dye
+<liquid:dye.watermixed.dyebrown>, Water Mixed Brown Dye
+<liquid:dye.watermixed.dyecyan>, Water Mixed Cyan Dye
+<liquid:dye.watermixed.dyegray>, Water Mixed Gray Dye
+<liquid:dye.watermixed.dyegreen>, Water Mixed Green Dye
+<liquid:dye.watermixed.dyelightblue>, Water Mixed Light Blue Dye
+<liquid:dye.watermixed.dyelightgray>, Water Mixed Light Gray Dye
+<liquid:dye.watermixed.dyelime>, Water Mixed Lime Dye
+<liquid:dye.watermixed.dyemagenta>, Water Mixed Magenta Dye
+<liquid:dye.watermixed.dyeorange>, Water Mixed Orange Dye
+<liquid:dye.watermixed.dyepink>, Water Mixed Pink Dye
+<liquid:dye.watermixed.dyepurple>, Water Mixed Purple Dye
+<liquid:dye.watermixed.dyered>, Water Mixed Red Dye
+<liquid:dye.watermixed.dyewhite>, Water Mixed White Dye
+<liquid:dye.watermixed.dyeyellow>, Water Mixed Yellow Dye
+<liquid:ethanol>, Ethanol
+<liquid:fieryblood>, Fiery Blood
+<liquid:fishoil>, Fish Oil
+<liquid:fluorine>, Fluorine
+<liquid:for.honey>, Honey
+<liquid:fuel>, Diesel
+<liquid:gas_gas>, Refinery Gas
+<liquid:gas_natural_gas>, Natural Gas
+<liquid:gas_sulfuricgas>, Sulfuric Gas
+<liquid:glass>, Liquid Glass
+<liquid:glue>, Glue
+<liquid:glyceryl>, Glyceryl Trinitrate
+<liquid:helium>, Helium
+<liquid:helium-3>, Helium-3
+<liquid:heliumg>, Gaseous Helium
+<liquid:heliuml>, Liquid Helium
+<liquid:holywater>, Holy Water
+<liquid:honey>, fluid.honey
+<liquid:hotfryingoil>, Hot Frying Oil
+<liquid:hydrogen>, Hydrogen
+<liquid:hydrogeng>, Gaseous Hydrogen
+<liquid:hydrogenl>, Liquid Hydrogen
+<liquid:ic2biogas>, Biogas
+<liquid:ic2biomass>, Biomass
+<liquid:ic2constructionfoam>, Construction Foam
+<liquid:ic2coolant>, IC2 Coolant
+<liquid:ic2distilledwater>, Distilled Water
+<liquid:ic2hotcoolant>, IC2 Hot Coolant
+<liquid:ic2hotwater>, Hotspring Water
+<liquid:ic2pahoehoelava>, Pahoehoe Lava
+<liquid:ic2steam>, Steam
+<liquid:ic2superheatedsteam>, Superheated Steam
+<liquid:ic2uumatter>, UU-Matter
+<liquid:ice>, Crushed Ice
+<liquid:indigo>, Indigo Dye
+<liquid:juice>, Fruit Juice
+<liquid:lava>, Lava
+<liquid:liquid_cracked_heavy_fuel>, Cracked Heavy Fuel
+<liquid:liquid_cracked_light_fuel>, Cracked Light Fuel
+<liquid:liquid_drillingfluid>, Drilling Fluid
+<liquid:liquid_epichlorhydrin>, Epichlorhydrin
+<liquid:liquid_extra_heavy_oil>, Very Heavy Oil
+<liquid:liquid_heavy_fuel>, Heavy Fuel
+<liquid:liquid_heavy_oil>, Heavy Oil
+<liquid:liquid_hydricsulfur>, Hydric Sulfide
+<liquid:liquid_light_fuel>, Light Fuel
+<liquid:liquid_light_oil>, Light Oil
+<liquid:liquid_lpg>, LPG
+<liquid:liquid_medium_oil>, Raw Oil
+<liquid:liquid_naphtha>, Naphtha
+<liquid:liquid_sufluriclight_fuel>, Sulfuric Light Fuel
+<liquid:liquid_sulfuricheavy_fuel>, Sulfuric Heavy Fuel
+<liquid:liquid_sulfuricnaphtha>, Sufluric Naphtha
+<liquid:lubricant>, Lubricant
+<liquid:mcguffium>, Mc Guffium 239
+<liquid:mercury>, Mercury
+<liquid:methane>, Methane
+<liquid:milk>, Milk
+<liquid:molten.adamantium>, Molten Adamantium
+<liquid:molten.aluminium>, Molten Aluminium
+<liquid:molten.aluminiumbrass>, Molten Aluminium Brass
+<liquid:molten.alumite>, Molten Alumite
+<liquid:molten.americium>, Molten Americium
+<liquid:molten.amordrine>, Molten Amordrine
+<liquid:molten.angmallen>, Molten Angmallen
+<liquid:molten.annealedcopper>, Molten Annealed Copper
+<liquid:molten.antimony>, Molten Antimony
+<liquid:molten.ardite>, Molten Ardite
+<liquid:molten.aredrite>, Molten Aredrite
+<liquid:molten.arsenic>, Molten Arsenic
+<liquid:molten.astralsilver>, Molten Astral Silver
+<liquid:molten.atlarus>, Molten Atlarus
+<liquid:molten.batteryalloy>, Molten Battery Alloy
+<liquid:molten.beryllium>, Molten Beryllium
+<liquid:molten.bismuth>, Molten Bismuth
+<liquid:molten.bismuthbronze>, Molten Bismuth Bronze
+<liquid:molten.blackbronze>, Molten Black Bronze
+<liquid:molten.blacksteel>, Molten Black Steel
+<liquid:molten.blaze>, Molten Blaze
+<liquid:molten.bluealloy>, Molten Blue Alloy
+<liquid:molten.bluesteel>, Molten Blue Steel
+<liquid:molten.blutonium>, Molten Blutonium
+<liquid:molten.brass>, Molten Brass
+<liquid:molten.bronze>, Molten Bronze
+<liquid:molten.caesium>, Molten Caesium
+<liquid:molten.carbon>, Molten Carbon
+<liquid:molten.carmot>, Molten Carmot
+<liquid:molten.celenegil>, Molten Celenegil
+<liquid:molten.cerium>, Molten Cerium
+<liquid:molten.ceruclase>, Molten Ceruclase
+<liquid:molten.cheese>, Molten Cheese
+<liquid:molten.chrome>, Molten Chrome
+<liquid:molten.chromiumdioxide>, Molten Chromium Dioxide
+<liquid:molten.cobalt>, Molten Cobalt
+<liquid:molten.cobaltbrass>, Molten Cobalt Brass
+<liquid:molten.concrete>, Wet Concrete
+<liquid:molten.conductiveiron>, Molten Conductive Iron
+<liquid:molten.copper>, Molten Copper
+<liquid:molten.cupronickel>, Molten Cupronickel
+<liquid:molten.damascussteel>, Molten Damascus Steel
+<liquid:molten.darkiron>, Molten Dark Iron
+<liquid:molten.darksteel>, Molten Dark Steel
+<liquid:molten.darkthaumium>, Molten Dark Thaumium
+<liquid:molten.deepiron>, Molten Deep Iron
+<liquid:molten.desh>, Molten Desh
+<liquid:molten.desichalkos>, Molten Desichalkos
+<liquid:molten.diamondcopper>, Molten Diamond Copper
+<liquid:molten.draconium>, Molten Draconium
+<liquid:molten.draconiumawakened>, Molten Awakened Draconium
+<liquid:molten.duranium>, Molten Duranium
+<liquid:molten.dysprosium>, Molten Dysprosium
+<liquid:molten.electricalsteel>, Molten Electrical Steel
+<liquid:molten.electrum>, Molten Electrum
+<liquid:molten.electrumflux>, Molten Fluxed Electrum
+<liquid:molten.elvenelementium>, Molten Elven Elementium
+<liquid:molten.enderium>, Molten Enderium
+<liquid:molten.enderiumbase>, Molten Enderium Base
+<liquid:molten.endium>, Molten Endium
+<liquid:molten.energeticalloy>, Molten Energetic Alloy
+<liquid:molten.enrichedcopper>, Molten Enriched Copper
+<liquid:molten.epoxid>, Molten Epoxid
+<liquid:molten.erbium>, Molten Erbium
+<liquid:molten.europium>, Molten Europium
+<liquid:molten.eximite>, Molten Eximite
+<liquid:molten.fairy>, Molten Fairy
+<liquid:molten.fierysteel>, Molten Fiery Steel
+<liquid:molten.force>, Molten Force
+<liquid:molten.gadolinium>, Molten Gadolinium
+<liquid:molten.gallium>, Molten Gallium
+<liquid:molten.glass>, Molten Glass
+<liquid:molten.glowstone>, Molten Glowstone
+<liquid:molten.gold>, Molten Gold
+<liquid:molten.haderoth>, Molten Haderoth
+<liquid:molten.hematite>, Molten Hematite
+<liquid:molten.hepatizon>, Molten Hepatizon
+<liquid:molten.holmium>, Molten Holmium
+<liquid:molten.hsla>, Molten HSLA Steel
+<liquid:molten.hsse>, Molten HSS-E
+<liquid:molten.hssg>, Molten HSS-G
+<liquid:molten.hsss>, Molten HSS-S
+<liquid:molten.ignatius>, Molten Ignatius
+<liquid:molten.indium>, Molten Indium
+<liquid:molten.infuscolium>, Molten Infuscolium
+<liquid:molten.infusedgold>, Molten Infused Gold
+<liquid:molten.inolashite>, Molten Inolashite
+<liquid:molten.invar>, Molten Invar
+<liquid:molten.iridium>, Molten Iridium
+<liquid:molten.iron>, Molten Iron
+<liquid:molten.ironcompressed>, Molten Compressed Iron
+<liquid:molten.ironmagnetic>, Molten Magnetic Iron
+<liquid:molten.ironwood>, Molten Ironwood
+<liquid:molten.kalendrite>, Molten Kalendrite
+<liquid:molten.kanthal>, Molten Kanthal
+<liquid:molten.knightmetal>, Molten Knightmetal
+<liquid:molten.lanthanum>, Molten Lanthanum
+<liquid:molten.lead>, Molten Lead
+<liquid:molten.lithium>, Molten Lithium
+<liquid:molten.ludicrite>, Molten Ludicrite
+<liquid:molten.lumium>, Molten Lumium
+<liquid:molten.lutetium>, Molten Lutetium
+<liquid:molten.magic>, Molten Magic
+<liquid:molten.magnalium>, Molten Magnalium
+<liquid:molten.magnesium>, Molten Magnesium
+<liquid:molten.manasteel>, Molten Manasteel
+<liquid:molten.manganese>, Molten Manganese
+<liquid:molten.manyullyn>, Molten Manyullyn
+<liquid:molten.mercassium>, Molten Mercassium
+<liquid:molten.meteoriciron>, Molten Meteoric Iron
+<liquid:molten.meteoricsteel>, Molten Meteoric Steel
+<liquid:molten.midasium>, Molten Midasium
+<liquid:molten.mithril>, Molten Mithril
+<liquid:molten.molybdenum>, Molten Molybdenum
+<liquid:molten.naquadah>, Molten Naquadah
+<liquid:molten.naquadahalloy>, Molten Naquadah Alloy
+<liquid:molten.naquadahenriched>, Molten Enriched Naquadah
+<liquid:molten.naquadria>, Molten Naquadria
+<liquid:molten.neodymium>, Molten Neodymium
+<liquid:molten.neodymiummagnetic>, Molten Magnetic Neodymium
+<liquid:molten.neutronium>, Molten Neutronium
+<liquid:molten.nichrome>, Molten Nichrome
+<liquid:molten.nickel>, Molten Nickel
+<liquid:molten.nikolite>, Molten Nikolite
+<liquid:molten.niobium>, Molten Niobium
+<liquid:molten.niobiumnitride>, Molten Niobium Nitride
+<liquid:molten.niobiumtitanium>, Molten Niobium-Titanium
+<liquid:molten.obsidianflux>, Molten Fluxed Obsidian
+<liquid:molten.orichalcum>, Molten Orichalcum
+<liquid:molten.osmiridium>, Molten Osmiridium
+<liquid:molten.osmium>, Molten Osmium
+<liquid:molten.osmonium>, Molten Osmonium
+<liquid:molten.oureclase>, Molten Oureclase
+<liquid:molten.palladium>, Molten Palladium
+<liquid:molten.phasedgold>, Molten Phased Gold
+<liquid:molten.phasediron>, Molten Phased Iron
+<liquid:molten.phoenixite>, Molten Phoenixite
+<liquid:molten.pigiron>, Molten Pig Iron
+<liquid:molten.plastic>, Molten Polyethylen
+<liquid:molten.platinum>, Molten Platinum
+<liquid:molten.plutonium>, Molten Plutonium 244
+<liquid:molten.plutonium241>, Molten Plutonium 241
+<liquid:molten.pokefennium>, Molten Pokefennium
+<liquid:molten.polycaprolactam>, Molten Polycaprolactam
+<liquid:molten.polytetrafluoroethylene>, Molten Polytetrafluoroethylene
+<liquid:molten.potassium>, Molten Potassium
+<liquid:molten.praseodymium>, Molten Praseodymium
+<liquid:molten.prometheum>, Molten Prometheum
+<liquid:molten.promethium>, Molten Promethium
+<liquid:molten.pulsatingiron>, Molten Pulsating Iron
+<liquid:molten.redalloy>, Molten Red Alloy
+<liquid:molten.redsteel>, Molten Red Steel
+<liquid:molten.redstone>, Molten Redstone
+<liquid:molten.rosegold>, Molten Rose Gold
+<liquid:molten.rubber>, Molten Rubber
+<liquid:molten.rubidium>, Molten Rubidium
+<liquid:molten.samarium>, Molten Samarium
+<liquid:molten.sanguinite>, Molten Sanguinite
+<liquid:molten.scandium>, Molten Scandium
+<liquid:molten.serpentine>, Molten Serpentine
+<liquid:molten.shadowiron>, Molten Shadowiron
+<liquid:molten.shadowsteel>, Molten Shadowsteel
+<liquid:molten.signalum>, Molten Signalum
+<liquid:molten.silicon>, Molten Silicon
+<liquid:molten.silicone>, Molten Silicone
+<liquid:molten.silver>, Molten Silver
+<liquid:molten.solderingalloy>, Molten Soldering Alloy
+<liquid:molten.stainlesssteel>, Molten Stainless Steel
+<liquid:molten.starconium>, Molten Starconium
+<liquid:molten.steel>, Molten Steel
+<liquid:molten.steelmagnetic>, Molten Magnetic Steel
+<liquid:molten.sterlingsilver>, Molten Sterling Silver
+<liquid:molten.sugar>, Molten Sugar
+<liquid:molten.sunnarium>, Molten Sunnarium
+<liquid:molten.tantalum>, Molten Tantalum
+<liquid:molten.tarpitch>, Molten Tar Pitch
+<liquid:molten.tartarite>, Molten Tartarite
+<liquid:molten.tellurium>, Molten Tellurium
+<liquid:molten.terbium>, Molten Terbium
+<liquid:molten.terrasteel>, Molten Terrasteel
+<liquid:molten.teslatite>, Molten Teslatite
+<liquid:molten.thaumium>, Molten Thaumium
+<liquid:molten.thorium>, Molten Thorium
+<liquid:molten.thulium>, Molten Thulium
+<liquid:molten.thyrium>, Molten Thyrium
+<liquid:molten.tin>, Molten Tin
+<liquid:molten.tinalloy>, Molten Tin Alloy
+<liquid:molten.titanium>, Molten Titanium
+<liquid:molten.tritanium>, Molten Tritanium
+<liquid:molten.tungsten>, Molten Tungsten
+<liquid:molten.tungstencarbide>, Molten Tungstencarbide
+<liquid:molten.tungstensteel>, Molten Tungstensteel
+<liquid:molten.ultimet>, Molten Ultimet
+<liquid:molten.uranium>, Molten Uranium 238
+<liquid:molten.uranium235>, Molten Uranium 235
+<liquid:molten.vanadium>, Molten Vanadium
+<liquid:molten.vanadiumgallium>, Molten Vanadium-Gallium
+<liquid:molten.vanadiumsteel>, Molten Vanadiumsteel
+<liquid:molten.vibrantalloy>, Molten Vibrant Alloy
+<liquid:molten.vulcanite>, Molten Vulcanite
+<liquid:molten.vyroxeres>, Molten Vyroxeres
+<liquid:molten.wroughtiron>, Molten Wrought Iron
+<liquid:molten.yellorium>, Molten Yellorium
+<liquid:molten.ytterbium>, Molten Ytterbium
+<liquid:molten.yttrium>, Molten Yttrium
+<liquid:molten.yttriumbariumcuprate>, Molten Yttrium Barium Cuprate
+<liquid:molten.zectium>, Molten Zectium
+<liquid:molten.zinc>, Molten Zinc
+<liquid:nitrofuel>, Nitro Diesel
+<liquid:nitrogen>, Nitrogen
+<liquid:nitrogendioxide>, Nitrogen Dioxide
+<liquid:nitrogeng>, Gaseous Nitrogen
+<liquid:nitrogenl>, Liquid Nitrogen
+<liquid:oil>, Oil
+<liquid:oxygen>, Oxygen
+<liquid:oxygeng>, Gaseous Oxygen
+<liquid:oxygenl>, Liquid Oxygen
+<liquid:plantoil>, Plant Oil
+<liquid:plasma._null>, NULL Plasma
+<liquid:plasma.aluminium>, Aluminium Plasma
+<liquid:plasma.americium>, Americium Plasma
+<liquid:plasma.antimony>, Antimony Plasma
+<liquid:plasma.argon>, Argon Plasma
+<liquid:plasma.arsenic>, Arsenic Plasma
+<liquid:plasma.barium>, Barium Plasma
+<liquid:plasma.beryllium>, Beryllium Plasma
+<liquid:plasma.bismuth>, Bismuth Plasma
+<liquid:plasma.boron>, Boron Plasma
+<liquid:plasma.cadmium>, Cadmium Plasma
+<liquid:plasma.caesium>, Caesium Plasma
+<liquid:plasma.calcium>, Calcium Plasma
+<liquid:plasma.carbon>, Carbon Plasma
+<liquid:plasma.cerium>, Cerium Plasma
+<liquid:plasma.chlorine>, Chlorine Plasma
+<liquid:plasma.chrome>, Chrome Plasma
+<liquid:plasma.cobalt>, Cobalt Plasma
+<liquid:plasma.copper>, Copper Plasma
+<liquid:plasma.deuterium>, Deuterium Plasma
+<liquid:plasma.dysprosium>, Dysprosium Plasma
+<liquid:plasma.empty>, Empty Plasma
+<liquid:plasma.erbium>, Erbium Plasma
+<liquid:plasma.europium>, Europium Plasma
+<liquid:plasma.fluorine>, Fluorine Plasma
+<liquid:plasma.gadolinium>, Gadolinium Plasma
+<liquid:plasma.gallium>, Gallium Plasma
+<liquid:plasma.gold>, Gold Plasma
+<liquid:plasma.helium>, Helium Plasma
+<liquid:plasma.helium_3>, Helium-3 Plasma
+<liquid:plasma.holmium>, Holmium Plasma
+<liquid:plasma.hydrogen>, Hydrogen Plasma
+<liquid:plasma.indium>, Indium Plasma
+<liquid:plasma.iridium>, Iridium Plasma
+<liquid:plasma.iron>, Iron Plasma
+<liquid:plasma.lanthanum>, Lanthanum Plasma
+<liquid:plasma.lead>, Lead Plasma
+<liquid:plasma.lithium>, Lithium Plasma
+<liquid:plasma.lutetium>, Lutetium Plasma
+<liquid:plasma.magic>, Magic Plasma
+<liquid:plasma.magnesium>, Magnesium Plasma
+<liquid:plasma.manganese>, Manganese Plasma
+<liquid:plasma.mercury>, Mercury Plasma
+<liquid:plasma.molybdenum>, Molybdenum Plasma
+<liquid:plasma.neodymium>, Neodymium Plasma
+<liquid:plasma.neutronium>, Neutronium Plasma
+<liquid:plasma.nickel>, Nickel Plasma
+<liquid:plasma.niobium>, Niobium Plasma
+<liquid:plasma.nitrogen>, Nitrogen Plasma
+<liquid:plasma.osmium>, Osmium Plasma
+<liquid:plasma.oxygen>, Oxygen Plasma
+<liquid:plasma.palladium>, Palladium Plasma
+<liquid:plasma.phosphor>, Phosphor Plasma
+<liquid:plasma.platinum>, Platinum Plasma
+<liquid:plasma.plutonium>, Plutonium 244 Plasma
+<liquid:plasma.plutonium241>, Plutonium 241 Plasma
+<liquid:plasma.potassium>, Potassium Plasma
+<liquid:plasma.praseodymium>, Praseodymium Plasma
+<liquid:plasma.promethium>, Promethium Plasma
+<liquid:plasma.radon>, Radon Plasma
+<liquid:plasma.rubidium>, Rubidium Plasma
+<liquid:plasma.samarium>, Samarium Plasma
+<liquid:plasma.scandium>, Scandium Plasma
+<liquid:plasma.silicon>, Silicon Plasma
+<liquid:plasma.silver>, Silver Plasma
+<liquid:plasma.sodium>, Sodium Plasma
+<liquid:plasma.strontium>, Strontium Plasma
+<liquid:plasma.sulfur>, Sulfur Plasma
+<liquid:plasma.tantalum>, Tantalum Plasma
+<liquid:plasma.tellurium>, Tellurium Plasma
+<liquid:plasma.terbium>, Terbium Plasma
+<liquid:plasma.thorium>, Thorium Plasma
+<liquid:plasma.thulium>, Thulium Plasma
+<liquid:plasma.tin>, Tin Plasma
+<liquid:plasma.titanium>, Titanium Plasma
+<liquid:plasma.tritium>, Tritium Plasma
+<liquid:plasma.tungsten>, Tungsten Plasma
+<liquid:plasma.uranium>, Uranium 238 Plasma
+<liquid:plasma.uranium235>, Uranium 235 Plasma
+<liquid:plasma.vanadium>, Vanadium Plasma
+<liquid:plasma.ytterbium>, Ytterbium Plasma
+<liquid:plasma.yttrium>, Yttrium Plasma
+<liquid:plasma.zinc>, Zinc Plasma
+<liquid:potion.alcopops>, Alcopops
+<liquid:potion.applejuice>, Apple Juice
+<liquid:potion.awkward>, Awkward Brew
+<liquid:potion.beer>, Beer
+<liquid:potion.cafeaulait>, Cafe au lait
+<liquid:potion.cavejohnsonsgrenadejuice>, Cave Johnsons Grenade Juice
+<liquid:potion.chillysauce>, Chilly Sauce
+<liquid:potion.chocolatemilk>, Chocolate Milk
+<liquid:potion.cider>, Cider
+<liquid:potion.coffee>, Coffee
+<liquid:potion.damage>, Harming Brew
+<liquid:potion.damage.splash>, Splash Harming Brew
+<liquid:potion.damage.strong>, Strong Harming Brew
+<liquid:potion.damage.strong.splash>, Strong Splash Harming Brew
+<liquid:potion.darkbeer>, Dark Beer
+<liquid:potion.darkcafeaulait>, Dark Cafe au lait
+<liquid:potion.darkchocolatemilk>, Bitter Chocolate Milk
+<liquid:potion.darkcoffee>, Dark Coffee
+<liquid:potion.diablosauce>, Diablo Sauce
+<liquid:potion.diablosauce.strong>, Old Man Snitches glitched Diablo Sauce
+<liquid:potion.diabolosauce>, Diabolo Sauce
+<liquid:potion.dragonblood>, Dragon Blood
+<liquid:potion.fireresistance>, Fire Resistant Brew
+<liquid:potion.fireresistance.long>, Stretched Fire Resistant Brew
+<liquid:potion.fireresistance.long.splash>, Stretched Splash Fire Resistant Brew
+<liquid:potion.fireresistance.splash>, Splash Fire Resistant Brew
+<liquid:potion.glenmckenner>, Glen McKenner
+<liquid:potion.goldenapplejuice>, Golden Apple Juice
+<liquid:potion.goldencider>, Golden Cider
+<liquid:potion.grapejuice>, Grape Juice
+<liquid:potion.health>, Healing Brew
+<liquid:potion.health.splash>, Splash Healing Brew
+<liquid:potion.health.strong>, Strong Healing Brew
+<liquid:potion.health.strong.splash>, Strong Splash Healing Brew
+<liquid:potion.hopsjuice>, Hops Juice
+<liquid:potion.hotsauce>, Hot Sauce
+<liquid:potion.icetea>, Ice Tea
+<liquid:potion.idunsapplejuice>, Idun's Apple Juice
+<liquid:potion.invisibility>, Invisible Brew
+<liquid:potion.invisibility.long>, Stretched Invisible Brew
+<liquid:potion.invisibility.long.splash>, Stretched Splash Invisible Brew
+<liquid:potion.invisibility.splash>, Splash Invisible Brew
+<liquid:potion.laitaucafe>, Lait au cafe
+<liquid:potion.lemonade>, Lemonade
+<liquid:potion.lemonjuice>, Lemon Juice
+<liquid:potion.leninade>, Leninade
+<liquid:potion.limoncello>, Limoncello
+<liquid:potion.mineralwater>, Mineral Water
+<liquid:potion.mundane>, Mundane Brew
+<liquid:potion.nightvision>, Night Vision Brew
+<liquid:potion.nightvision.long>, Stretched Night Vision Brew
+<liquid:potion.nightvision.long.splash>, Stretched Splash Night Vision Brew
+<liquid:potion.nightvision.splash>, Splash Night Vision Brew
+<liquid:potion.notchesbrew>, Notches Brew
+<liquid:potion.piratebrew>, Pirate Brew
+<liquid:potion.poison>, Poisonous Brew
+<liquid:potion.poison.long>, Stretched Poisonous Brew
+<liquid:potion.poison.long.splash>, Stretched Splash Poisonous Brew
+<liquid:potion.poison.splash>, Splash Poisonous Brew
+<liquid:potion.poison.strong>, Strong Poisonous Brew
+<liquid:potion.poison.strong.splash>, Strong Splash Poisonous Brew
+<liquid:potion.potatojuice>, Potato Juice
+<liquid:potion.purpledrink>, Purple Drink
+<liquid:potion.reedwater>, Reed Water
+<liquid:potion.regen>, Regenerating Brew
+<liquid:potion.regen.long>, Stretched Regenerating Brew
+<liquid:potion.regen.long.splash>, Stretched Splash Regenerating Brew
+<liquid:potion.regen.splash>, Splash Regenerating Brew
+<liquid:potion.regen.strong>, Strong Regenerating Brew
+<liquid:potion.regen.strong.splash>, Strong Splash Regenerating Brew
+<liquid:potion.rum>, Rum
+<liquid:potion.saltywater>, Salty Water
+<liquid:potion.scotch>, Scotch
+<liquid:potion.slowness>, Lame Brew
+<liquid:potion.slowness.long>, Stretched Lame Brew
+<liquid:potion.slowness.long.splash>, Stretched Splash Lame Brew
+<liquid:potion.slowness.splash>, Splash Lame Brew
+<liquid:potion.speed>, Swiftness Brew
+<liquid:potion.speed.long>, Stretched Swiftness Brew
+<liquid:potion.speed.long.splash>, Stretched Splash Swiftness Brew
+<liquid:potion.speed.splash>, Splash Swiftness Brew
+<liquid:potion.speed.strong>, Strong Swiftness Brew
+<liquid:potion.speed.strong.splash>, Strong Splash Swiftness Brew
+<liquid:potion.strength>, Strength Brew
+<liquid:potion.strength.long>, Stretched Strength Brew
+<liquid:potion.strength.long.splash>, Stretched Splash Strength Brew
+<liquid:potion.strength.splash>, Splash Strength Brew
+<liquid:potion.strength.strong>, Strong Strength Brew
+<liquid:potion.strength.strong.splash>, Strong Splash Strength Brew
+<liquid:potion.sweettea>, Sweet Tea
+<liquid:potion.tea>, Tea
+<liquid:potion.thick>, Thick Brew
+<liquid:potion.vinegar>, Vinegar
+<liquid:potion.vodka>, Vodka
+<liquid:potion.waterbreathing>, Fishy Brew
+<liquid:potion.waterbreathing.long>, Stretched Fishy Brew
+<liquid:potion.waterbreathing.long.splash>, Stretched Splash Fishy Brew
+<liquid:potion.waterbreathing.splash>, Splash Fishy Brew
+<liquid:potion.weakness>, Weakening Brew
+<liquid:potion.weakness.long>, Stretched Weakening Brew
+<liquid:potion.weakness.long.splash>, Stretched Splash Weakening Brew
+<liquid:potion.weakness.splash>, Splash Weakening Brew
+<liquid:potion.wheatyhopsjuice>, Wheaty Hops Juice
+<liquid:potion.wheatyjuice>, Wheaty Juice
+<liquid:potion.wine>, Wine
+<liquid:seedoil>, Seed Oil
+<liquid:short.mead>, Short Mead
+<liquid:sodiumpersulfate>, Sodium Persulfate
+<liquid:squidink>, Squid Ink
+<liquid:steam>, Steam
+<liquid:sulfuricacid>, Sulfuric Acid
+<liquid:titaniumtetrachloride>, Titaniumtetrachloride
+<liquid:tritium>, Tritium
+<liquid:uuamplifier>, UU Amplifier
+<liquid:water>, Water
